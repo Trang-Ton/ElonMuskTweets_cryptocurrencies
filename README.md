@@ -19,7 +19,7 @@ Closing prices of cryptocurrencies obtained from 01/01/2020 - 21/08/2021:
 * ![](assets/Cardano.png) Cardano (ADA)
 * ![](assets/Litecoin.png) Litecoin (LTC)
 
-* ![](QMEF-asset/CCMIX.png) the crescent cryptocurrency market index (CCMIX) index. 
+* ![](assets/CCMIX.png) the crescent cryptocurrency market index (CCMIX) index. 
 
 * 1600 tweets from Elon Musk's![](assets/Twitter1.png) Twitter account are collected, with specific filtering for crypto-related tweets including terms like "bitcoin", "dogecoin", and "cryptocurrency" 
 
