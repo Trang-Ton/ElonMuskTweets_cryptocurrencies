@@ -37,9 +37,11 @@ b. Long-term analysis - BHAR approach
 ### 3. Main results 💡
 
 ![](assets/CAR.png)
+
 *Table 1: Average CAR and t-statistic*
 
 ![](assets/BHAR.png)
+
 *Table 2: Average BHAR and t-statistics*
 
 ✅ The findings revealed a smaller and less clear influence than initially assumed. 
@@ -49,6 +51,7 @@ b. Long-term analysis - BHAR approach
 ✅ However, two significant tweets (Event 2 & 4 in Table 1) were identified that appeared to influence cryptocurrencies in the short term.
 
 ![](assets/Event2.png)
+
 *Figure: AR of Dogecoin at the 2nd event*
 
 The abnormal returns of event two, for example, a deflection of these can also clearly be seen at time zero (see figure above). The same results can be seen for the fourth and fifth events as well.
