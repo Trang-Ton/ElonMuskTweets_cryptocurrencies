@@ -7,13 +7,13 @@ August 2021
 
 This report briefly shows an event study to examine the influence of Elon Musk's tweets on cryptocurrency prices.
 
-[Paper link]()
+[Paper link](CoinFlippingPaper.pdf)
 
 [Python Source codes](Tweet.py)
 
-[Stata codes_shortTerm analysis](eventStudy_Shortterm)
+[Stata codes_shortTerm analysis](eventStudy_Shortterm.do)
 
-[Stata codes_longTerm analysis](eventStudyLongTerm)
+[Stata codes_longTerm analysis](eventStudyLongTerm.do)
 
 
 ### 1. Data 
